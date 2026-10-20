@@ -2,6 +2,8 @@
 
 > A curated list of open-source tools, platforms, datasets, and hardware outcomes developed within the [OpenAgri](https://github.com/openagri-eu) project.
 
+*Inspired by [Bryce Johnston](https://github.com/brycejohnston)'s [`awesome-agriculture`](https://github.com/brycejohnston/awesome-agriculture) project. A special thanks to Bryce for cultivating open-source curation in agtech!*
+
 The OpenAgri initiative focuses on empowering sustainable, data-driven, and open agriculture. This repository serves as a central index for all open-source deliverables, software components, and research outcomes produced across the consortium.
 
 ---
