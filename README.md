@@ -4,7 +4,11 @@
 
 *Inspired by [Bryce Johnston](https://github.com/brycejohnston)'s [`awesome-agriculture`](https://github.com/brycejohnston/awesome-agriculture) project. A special thanks to Bryce for cultivating open-source curation in agtech!*
 
-The OpenAgri initiative focuses on empowering sustainable, data-driven, and open agriculture. This repository serves as a central index for all open-source deliverables, software components, and research outcomes produced across the consortium.
+The OpenAgri initiative focuses on empowering sustainable, data-driven, and open agriculture. 
+This repository serves as a central index for all open-source deliverables, including software, hardware and datasets produced by the OpenAgri tech providers working on the various pilots of the project. 
+You can read more about the OpenAgri pilots here https://horizon-openagri.eu/sustainable-innovation-pilots/ 
+and here:  https://horizon-openagri.eu/external-sips/
+
 
 ---
 
