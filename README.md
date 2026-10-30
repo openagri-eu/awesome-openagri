@@ -35,7 +35,7 @@ and here:  https://horizon-openagri.eu/external-sips/
 - [Compost Reasoning Engine](https://github.com/fedjo/monicompost) - Analyses temperature, moisture, and oxygen data to recommend compost-management actions.
 - [AgriVision](https://github.com/GEvang/agrivision-pipeline) - Computer-vision pipeline for agricultural imagery, with associated Co-AgriADS hardware and data documentation.
 - AgriTwin - Prototype digital-twin platform for agricultural monitoring, data visualisation, reporting, and decision support.
-- Spotify - AI-powered system for real-time detection and prediction of olive fruit fly and olive moth risks.
+- SPOTIFLY - AI-powered system for real-time detection and prediction of olive fruit fly and olive moth risks.
 - [iAgro](https://github.com/Agrobitsrl/PDM-fuzzymodel) - Forecasts crop pest and disease pressure under changing environmental conditions.
 - [Pre-Configured Reporting Templates for PGI/DPO](https://github.com/Agrobitsrl/reporting-templates) - Converts JSON-based inputs into formatted compliance, sustainability, and operational reports.
 - [SheepCare](https://github.com/itdepartment-cnta/Sheepcare.git) - Collects, monitors, and analyses flock health, welfare, and production data.
