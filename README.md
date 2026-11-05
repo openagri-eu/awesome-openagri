@@ -45,7 +45,7 @@ and here:  https://horizon-openagri.eu/external-sips/
 - [SFS SmartFeed Web App](https://github.com/inokron-doo/OA-Cloud-Frontend) - React, TypeScript, and Vite dashboard for SmartFeed monitoring and analytics.
 - [SFS LoRa Sensor Node Firmware](https://github.com/inokron-doo/OA-Sensor) - Monitors feed levels, temperature, and humidity for LoRa-enabled livestock feeding systems.
 - SCIBee Beehive Data Aggregator - Aggregates and organises hive and environmental sensor data across the SCIBee platform.
-- SCIBee Beehive Data Evaluator - Analyses beehive monitoring data to assess colony performance, health, and environmental impacts.
+- [SCIBee Beehive Data Evaluator](https://github.com/mechatronery/scibee/blob/main/SCIBee_Evaluator/scibee_evaluator.md) - Uses a locally hosted Qwen language model to evaluate aggregated beehive observations, assess colony conditions and potential risks, and generate summaries with recommended actions.
 - SCIBee Community Data Hub - Integrates sensor networks, telemetry, and analytics for real-time colony-health assessment.
 
 ## Data Models & APIs
