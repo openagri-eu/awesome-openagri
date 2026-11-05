@@ -77,7 +77,7 @@ No tools are currently listed in this category.
 - [MOSIC – Modular Open-Source Irrigation Controller](https://github.com/altsol/mosic) - Modular irrigation-management solution for monitoring and controlling precision-irrigation systems.
 - [Somatic Cell Count](https://doi.org/10.5281/zenodo.22748856) - Data resource of somatic-cell-count records and metadata for dairy health and mastitis monitoring.
 - [Estrus detection](https://doi.org/10.5281/zenodo.22748342) - Data resource of estrus observations and metadata for reproductive-status classification.
-- SCIBee Varroa Mite Images - Annotated bee images with and without Varroa mites for AI detection and colony-health monitoring.
+- [SCIBee Honeybee Entrance Corridor Image Dataset](https://ieee-dataport.org/documents/scibee-honeybee-entrance-corridor-image-dataset-object-detection-precision-beekeeping) - Provides 1,879 field-acquired images of honeybees in a beehive entrance corridor, annotated with COCO-format bounding boxes.
 
 ## Standards & Interoperability
 
