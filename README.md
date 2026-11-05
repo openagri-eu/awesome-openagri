@@ -66,7 +66,7 @@ No tools are currently listed in this category.
 - [UHF RFID smart case](https://github.com/e-peltier18/Animal-visit-reporting/tree/main) - RFID reader system for automated animal identification and visit tracking.
 - [Custom 3D printed enclosure - Drone-Mounted Edge Computing Enclosure](https://github.com/ilvo-openagri) - 3D-printed UAV enclosure for edge-computing and sensing components.
 - [SFS LoRa Sensor Network Node](https://github.com/inokron-doo/OA-HWcomponents) - Dual-role LoRa node for feed-level and microclimate monitoring.
-- SCIBee Beehive Base Controller - Embedded controller for sensor management, telemetry collection, and device communication.
+- [SCIBee Base Control System](https://github.com/mechatronery/scibee/blob/main/SCIBee_Base/scibee_base_control_system.md) - Monitors beehive weight, internal environmental conditions, and electrical parameters across three hives, and supports automated formic-acid treatment.
 - SCIBee Beehive Base Structure - Smart beehive framework for integrating monitoring sensors and IoT equipment.
 - SCIBee Beehive Entrance Counter - Automated system for measuring hive ingress and egress activity.
 - SCIBee Visual Varroa Detector - Vision-based hardware platform for Varroa-mite detection and hive-health assessment.
