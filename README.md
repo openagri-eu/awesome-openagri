@@ -46,7 +46,7 @@ and here:  https://horizon-openagri.eu/external-sips/
 - [SFS LoRa Sensor Node Firmware](https://github.com/inokron-doo/OA-Sensor) - Monitors feed levels, temperature, and humidity for LoRa-enabled livestock feeding systems.
 - SCIBee Beehive Data Aggregator - Aggregates and organises hive and environmental sensor data across the SCIBee platform.
 - SCIBee Beehive Data Evaluator - Analyses beehive monitoring data to assess colony performance, health, and environmental impacts.
-- SCIBee Community Data Hub - Integrates sensor networks, telemetry, and analytics for real-time colony-health assessment.
+- [SCIBee Community Data Hub](https://github.com/mechatronery/scibee/blob/main/SCIBee_Community/scibee_community.md) - Provides a modular platform for collecting and sharing anonymous community observations on blooming, meadow management, Varroa mite detections, and planned pesticide spraying relevant to beekeeping.
 
 ## Data Models & APIs
 
