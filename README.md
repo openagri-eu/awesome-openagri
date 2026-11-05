@@ -68,8 +68,7 @@ No tools are currently listed in this category.
 - [SFS LoRa Sensor Network Node](https://github.com/inokron-doo/OA-HWcomponents) - Dual-role LoRa node for feed-level and microclimate monitoring.
 - SCIBee Beehive Base Controller - Embedded controller for sensor management, telemetry collection, and device communication.
 - SCIBee Beehive Base Structure - Smart beehive framework for integrating monitoring sensors and IoT equipment.
-- SCIBee Beehive Entrance Counter - Automated system for measuring hive ingress and egress activity.
-- SCIBee Visual Varroa Detector - Vision-based hardware platform for Varroa-mite detection and hive-health assessment.
+- [SCIBee Entrance System](https://github.com/mechatronery/scibee/blob/main/SCIBee_Entrance/scibee_entrance_system.md) - Integrates infrared-based honeybee traffic monitoring across 17 entrance tunnels, motorised entrance control, and AI-powered image capture using an ESP32-S3-EYE camera for subsequent Varroa mite analysis.
 
 ## Documentation
 
