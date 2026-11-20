@@ -67,7 +67,7 @@ No tools are currently listed in this category.
 - [Custom 3D printed enclosure - Drone-Mounted Edge Computing Enclosure](https://github.com/ilvo-openagri) - 3D-printed UAV enclosure for edge-computing and sensing components.
 - [SFS LoRa Sensor Network Node](https://github.com/inokron-doo/OA-HWcomponents) - Dual-role LoRa node for feed-level and microclimate monitoring.
 - [SCIBee Base Control System](https://github.com/mechatronery/scibee/blob/main/SCIBee_Base/scibee_base_control_system.md) - Monitors beehive weight, internal environmental conditions, and electrical parameters across three hives, and supports automated formic-acid treatment.
-- SCIBee Beehive Base Structure - Smart beehive framework for integrating monitoring sensors and IoT equipment.
+- [SCIBee Beehive Base Structure](https://github.com/mechatronery/scibee/blob/main/SCIBee_Base/scibee_base_stand.md) - Provides a structural platform for three honeybee colonies and a separate control-system hive, integrating load cells for hive weighing and a solar power supply.
 - SCIBee Beehive Entrance Counter - Automated system for measuring hive ingress and egress activity.
 - SCIBee Visual Varroa Detector - Vision-based hardware platform for Varroa-mite detection and hive-health assessment.
 
@@ -77,7 +77,7 @@ No tools are currently listed in this category.
 - [MOSIC – Modular Open-Source Irrigation Controller](https://github.com/altsol/mosic) - Modular irrigation-management solution for monitoring and controlling precision-irrigation systems.
 - [Somatic Cell Count](https://doi.org/10.5281/zenodo.22748856) - Data resource of somatic-cell-count records and metadata for dairy health and mastitis monitoring.
 - [Estrus detection](https://doi.org/10.5281/zenodo.22748342) - Data resource of estrus observations and metadata for reproductive-status classification.
-- SCIBee Varroa Mite Images - Annotated bee images with and without Varroa mites for AI detection and colony-health monitoring.
+- [SCIBee Honeybee Entrance Corridor Image Dataset](https://ieee-dataport.org/documents/scibee-honeybee-entrance-corridor-image-dataset-object-detection-precision-beekeeping) - Provides 1,879 field-acquired images of honeybees in a beehive entrance corridor, annotated with COCO-format bounding boxes.
 
 ## Standards & Interoperability
 
